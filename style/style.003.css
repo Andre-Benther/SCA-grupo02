@@ -366,3 +366,7 @@
   
   }
   }
+
+  main a {
+    text-decoration: none;
+  }
