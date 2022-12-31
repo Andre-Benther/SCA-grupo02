@@ -288,6 +288,7 @@ img{
   text-transform: uppercase;
 }
 
+
 /*  só será aplicado se o tamanho da tela do dispositivo for maior ou igual a 1024 pixels de largura. */
 @media screen and (min-width: 1024px){
   .header{
@@ -365,4 +366,8 @@ img{
     padding-bottom: 10%;
 
 }
+}
+
+main a {
+  text-decoration: none;
 }
